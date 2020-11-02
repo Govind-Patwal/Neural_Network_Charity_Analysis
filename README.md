@@ -18,8 +18,10 @@ Beks is now ready to put her skills to work to help the foundation predict where
 ## Results
 
 Initial Deep-learning Model
+
 ![](Resources/Deliverable2.png)
 
+## Questions
 ### Data Preprocessing
 * What variable(s) are considered the target(s) for your model?
     * IS_SUCCESSFUL

@@ -16,6 +16,8 @@ Beks is now ready to put her skills to work to help the foundation predict where
 * Data Source(s): https://github.com/Govind-Patwal/Neural_Network_Charity_Analysis/blob/main/Resources/charity_data.csv
 
 ## Results
+
+Initial Deep-learning Model
 ![](Resources/Deliverable2.png)
 
 ### Data Preprocessing

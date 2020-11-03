@@ -17,23 +17,29 @@ Beks is now ready to put her skills to work to help the foundation predict where
 
 ## Results
 
-Initial Deep-learning Model
-
-![](Resources/Deliverable2.png)
-
-## Questions
 ### Data Preprocessing
 * What variable(s) are considered the target(s) for your model?
     * IS_SUCCESSFUL
 * What variable(s) are considered to be the features for your model?
-    * APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT, SPECIAL_CONSIDERATIONS, ASK_AMT 
+    * APPLICATION_TYPE
+    * AFFILIATION
+    * CLASSIFICATION
+    * USE_CASE
+    * ORGANIZATION
+    * STATUS
+    * INCOME_AMT
+    * SPECIAL_CONSIDERATIONS
+    * ASK_AMT 
 
 * What variable(s) are neither targets nor features, and should be removed from the input data?
+    * EIN
+    * NAME
 
 ## Compiling, Training, and Evaluating the Model
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
     * I experimented with many layers, neurons and many activation functions
 * Were you able to achieve the target model performance?
-    * No I was not able to touch 75%
+    * No I was not able to touch 75%, I was close and touched 72.79%
+    ![](Resources/Deliverable2.png)
 * What steps did you take to try and increase model performance?
-    * Worked with the number of neurons, changed some activation functions, worked with number of layers and number of epoches
+    * I worked with the number of neurons, changed some activation functions, worked with number of layers and number of epoches
